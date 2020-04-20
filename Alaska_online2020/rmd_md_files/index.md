@@ -27,17 +27,5 @@ NOAA CoastWatch/OceanWatch provides easy access for everyone to global and regio
 
 These course materials were developed and are distributed by the [West Coast Node](https://coastwatch.pfeg.noaa.gov/) of NOAA CoastWatch and by [PolarWatch](https://polarwatch.noaa.gov/). Information about the courses and services offered by West Coast Node can be found at the following links:  
 
-| <button>[Courses](https://coastwatch.pfeg.noaa.gov/courses/satellite_course.html)</button> <button>[Data Catalog](https://coastwatch.pfeg.noaa.gov/data.html)</button> <button>[Data Server](https://coastwatch.pfeg.noaa.gov/erddapinfo/index.html)</button> <button>[Xtractomatic](https://coastwatch.pfeg.noaa.gov/xtracto/)</button>
-
-
-
-
-cp poes/data/AT202007* /ERDData3/poes_data/2020/1day/
-
-cp poes/data/AT202008* /ERDData3/poes_data/2020/1day/
-cp poes/data/AT202009* /ERDData3/poes_data/2020/1day/
-
-cp -v poes/data/2020/hday/AT202009* /ERDData3/poes_data/2020/hday/
-
-cp poes/data/2017/hday /ERDData3/poes_data/2017/hday
+| <button>[Courses](https://coastwatch.pfeg.noaa.gov/courses/satellite_course.html)</button> | <button>[Data Catalog](https://coastwatch.pfeg.noaa.gov/data.html)</button> | <button>[Data Server](https://coastwatch.pfeg.noaa.gov/erddapinfo/index.html)</button> | <button>[Xtractomatic](https://coastwatch.pfeg.noaa.gov/xtracto/)</button>
 
