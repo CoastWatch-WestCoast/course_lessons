@@ -2,17 +2,17 @@
 ## Presentations for the Mini-Course
 
 ### Day 1  
-Tuesday, Apr 7, 11 10am AKDT (11am PDT)  
+Held Tuesday, Apr 7, 11 10am AKDT (11am PDT)  
 * Day1_Intro.pdf
 * Day1_CoastWatch.pdf
 * Day1_3_ERDDAP.pdf  
 
 ### Day 2  
-Wednesday, Apr 8, 11 10am AKDT (11am PDT)  
+Held Wednesday, Apr 8, 11 10am AKDT (11am PDT)  
 * Day2_R.pdf 
 
 ### Day 3  
-Thursday, Apr 9, 11 10am AKDT (11am PDT)  
+Held Thursday, Apr 9, 11 10am AKDT (11am PDT)  
 * Day3_ArcGIS.pdf
 
 ## Material for the in-person course  
